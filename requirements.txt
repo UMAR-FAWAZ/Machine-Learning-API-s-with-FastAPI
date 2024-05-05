@@ -1,0 +1,12 @@
+pandas
+numpy 
+matplotlib
+seaborn
+seaborn_qqplot
+ydata-profiling
+
+
+notebook
+ipywidgets
+fastapi[all]
+scikit-learn==1.2.2
